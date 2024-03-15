@@ -1,0 +1,140 @@
+{
+  "viewingHint" : "paged",
+  "service" : [ ],
+  "license" : "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
+  "structures" : [ ],
+  "sequences" : [ {
+    "canvases" : [ {
+      "height" : 3071,
+      "width" : 4260,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digital.blb-karlsruhe.de/i3f/v20/3390546"
+          },
+          "format" : "image/jpeg",
+          "height" : 720,
+          "width" : 1000,
+          "@id" : "https://digital.blb-karlsruhe.de/download/webcache/1000/3390546",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://digital.blb-karlsruhe.de/i3f/v20/3388273/canvas/3390546",
+        "motivation" : "sc:painting",
+        "@id" : "https://digital.blb-karlsruhe.de/i3f/v20/3388273/annotation/3390546",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[1]",
+      "@id" : "https://digital.blb-karlsruhe.de/i3f/v20/3388273/canvas/3390546",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3071,
+      "width" : 4260,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digital.blb-karlsruhe.de/i3f/v20/3390547"
+          },
+          "format" : "image/jpeg",
+          "height" : 720,
+          "width" : 1000,
+          "@id" : "https://digital.blb-karlsruhe.de/download/webcache/1000/3390547",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://digital.blb-karlsruhe.de/i3f/v20/3388273/canvas/3390547",
+        "motivation" : "sc:painting",
+        "@id" : "https://digital.blb-karlsruhe.de/i3f/v20/3388273/annotation/3390547",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[2]",
+      "@id" : "https://digital.blb-karlsruhe.de/i3f/v20/3388273/canvas/3390547",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3071,
+      "width" : 4676,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digital.blb-karlsruhe.de/i3f/v20/3390548"
+          },
+          "format" : "image/jpeg",
+          "height" : 656,
+          "width" : 1000,
+          "@id" : "https://digital.blb-karlsruhe.de/download/webcache/1000/3390548",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://digital.blb-karlsruhe.de/i3f/v20/3388273/canvas/3390548",
+        "motivation" : "sc:painting",
+        "@id" : "https://digital.blb-karlsruhe.de/i3f/v20/3388273/annotation/3390548",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[3]",
+      "@id" : "https://digital.blb-karlsruhe.de/i3f/v20/3388273/canvas/3390548",
+      "@type" : "sc:Canvas"
+    } ],
+    "viewingHint" : "paged",
+    "startCanvas" : "https://digital.blb-karlsruhe.de/i3f/v20/3388273/canvas/3390546",
+    "viewingDirection" : "left-to-right",
+    "label" : "Current Page Order",
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://digital.blb-karlsruhe.de/i3f/v20/3388273/sequence/normal",
+    "@type" : "sc:Sequence"
+  } ],
+  "label" : "Mappemonde où sont marquées les Nouvelles Découvertes - B 59",
+  "thumbnail" : {
+    "width" : 304,
+    "height" : 219,
+    "@id" : "https://digital.blb-karlsruhe.de/i3f/v21/3390546/full/304/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "format" : "image/jpeg"
+  },
+  "logo" : {
+    "@id" : "https://digital.blb-karlsruhe.de/domainresource/static/graphics/connectors/viewerLogo.gif",
+    "service" : {
+      "profile" : "http://iiif.io/api/image/2/level2.json",
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "http://www.blb-karlsruhe.de/"
+    }
+  },
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "metadata" : [ {
+    "value" : "Mappemonde où sont marquées les Nouvelles Découvertes - B 59 / Par Brion de la Tour, Ing.r Géog. du Roi",
+    "label" : "Titel"
+  }, {
+    "value" : "Brion de la Tour, Louis",
+    "label" : "Verfasser"
+  }, {
+    "value" : "Paris : Esnauts & Rapilly, 1783",
+    "label" : "Erschienen"
+  }, {
+    "value" : "1 Kt., Kupferstich ; 76 x 53 cm  : koloriert",
+    "label" : "Umfang"
+  }, {
+    "value" : "Titelkartusche mittig unten.Vorlageform des Erscheinungsvermerks: A Paris, Chez Esnauts St. Rapilly, rue St. Jacques à la Ville de Coutances A. P. D. R. 1783",
+    "label" : "Anmerkung"
+  }, {
+    "value" : "B 59",
+    "label" : "Signatur"
+  }, {
+    "value" : "Digitalisierung",
+    "label" : "URL"
+  }, {
+    "value" : "Karlsruhe : Badische Landesbibliothek, 2016",
+    "label" : "Online-Ausgabe"
+  }, {
+    "value" : "urn:nbn:de:bsz:31-64667",
+    "label" : "URN"
+  } ],
+  "@id" : "https://sonjavog.github.io/Fotis/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "seeAlso" : {
+    "format" : "application/xml",
+    "@id" : "https://digital.blb-karlsruhe.de/oai?verb=GetRecord&metadataPrefix=mets&identifier=3388273",
+    "label" : "METS"
+  }
+}
