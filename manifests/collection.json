@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://sonjavog.github.io/Fotis/manifests/manifest_Omi_Kuni-ezu.json",
     "label" : "Ōmi Kuni-ezu -- 近江國絵圖"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://sonjavog.github.io/Fotis/manifests/manifest_Gutenberg_Bibel.json",
+    "label" : "Biblia. 1: Genesis-Psalmi"
   } ]
 }
