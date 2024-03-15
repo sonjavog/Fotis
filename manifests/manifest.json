@@ -1,0 +1,171 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://sonjavog.github.io/Fotis/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Ōmi Kuni-ezu -- 近江國絵圖",
+  "attribution" : "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+  "logo" : {
+    "@id" : "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+      "profile" : "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "seeAlso" : {
+    "@id" : "https://purl.stanford.edu/hs631zg4177.mods",
+    "format" : "application/mods+xml"
+  },
+  "metadata" : [ {
+    "label" : "Available Online",
+    "value" : "<a href='https://purl.stanford.edu/hs631zg4177'>https://purl.stanford.edu/hs631zg4177</a>"
+  }, {
+    "label" : "Title",
+    "value" : "Ōmi Kuni-ezu"
+  }, {
+    "label" : "Title",
+    "value" : "近江國絵圖"
+  }, {
+    "label" : "Type",
+    "value" : "cartographic image"
+  }, {
+    "label" : "Format",
+    "value" : "1 map : color ; 345 x 504 cm"
+  }, {
+    "label" : "Format",
+    "value" : "unmediated"
+  }, {
+    "label" : "Language",
+    "value" : "jpn"
+  }, {
+    "label" : "Coverage",
+    "value" : "Japan"
+  }, {
+    "label" : "Coverage",
+    "value" : "Omi prefecture"
+  }, {
+    "label" : "Coverage",
+    "value" : "Scale 1:21,600."
+  }, {
+    "label" : "Date",
+    "value" : "1837"
+  }, {
+    "label" : "Date",
+    "value" : "1837"
+  }, {
+    "label" : "Publisher",
+    "value" : "Publisher not given,"
+  }, {
+    "label" : "Identifier",
+    "value" : "https://purl.stanford.edu/hs631zg4177"
+  }, {
+    "label" : "PublishDate",
+    "value" : "2022-07-12T00:44:15Z"
+  } ],
+  "thumbnail" : {
+    "@id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0001/full/!400,400/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "format" : "image/jpeg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0001",
+      "profile" : "http://iiif.io/api/image/2/level2.json"
+    },
+    "width" : 400,
+    "height" : 267
+  },
+  "sequences" : [ {
+    "@id" : "https://purl.stanford.edu/hs631zg4177/iiif/manifest#sequence-1",
+    "@type" : "sc:Sequence",
+    "label" : "Current order",
+    "viewingDirection" : "left-to-right",
+    "canvases" : [ {
+      "@id" : "https://purl.stanford.edu/hs631zg4177/iiif/canvas/cocina-fileSet-hs631zg4177-hs631zg4177_1",
+      "@type" : "sc:Canvas",
+      "label" : "Image 1",
+      "height" : 22939,
+      "width" : 34342,
+      "rendering" : [ {
+        "@id" : "https://stacks.stanford.edu/file/hs631zg4177/hs631zg4177_00_0001.jp2",
+        "label" : "Original source file (142 MB)",
+        "format" : "image/jp2"
+      } ],
+      "images" : [ {
+        "@id" : "https://purl.stanford.edu/hs631zg4177/iiif/annotation/cocina-fileSet-hs631zg4177-hs631zg4177_1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 22939,
+          "width" : 34342,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0001",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on" : "https://purl.stanford.edu/hs631zg4177/iiif/canvas/cocina-fileSet-hs631zg4177-hs631zg4177_1"
+      } ]
+    }, {
+      "@id" : "https://purl.stanford.edu/hs631zg4177/iiif/canvas/cocina-fileSet-hs631zg4177-hs631zg4177_2",
+      "@type" : "sc:Canvas",
+      "label" : "Image 2",
+      "height" : 4572,
+      "width" : 2928,
+      "rendering" : [ {
+        "@id" : "https://stacks.stanford.edu/file/hs631zg4177/hs631zg4177_00_0002.jp2",
+        "label" : "Original source file (2.42 MB)",
+        "format" : "image/jp2"
+      } ],
+      "images" : [ {
+        "@id" : "https://purl.stanford.edu/hs631zg4177/iiif/annotation/cocina-fileSet-hs631zg4177-hs631zg4177_2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0002/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4572,
+          "width" : 2928,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0002",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on" : "https://purl.stanford.edu/hs631zg4177/iiif/canvas/cocina-fileSet-hs631zg4177-hs631zg4177_2"
+      } ]
+    }, {
+      "@id" : "https://purl.stanford.edu/hs631zg4177/iiif/canvas/cocina-fileSet-hs631zg4177-hs631zg4177_3",
+      "@type" : "sc:Canvas",
+      "label" : "Image 3",
+      "height" : 4601,
+      "width" : 3078,
+      "rendering" : [ {
+        "@id" : "https://stacks.stanford.edu/file/hs631zg4177/hs631zg4177_00_0003.jp2",
+        "label" : "Original source file (2.56 MB)",
+        "format" : "image/jp2"
+      } ],
+      "images" : [ {
+        "@id" : "https://purl.stanford.edu/hs631zg4177/iiif/annotation/cocina-fileSet-hs631zg4177-hs631zg4177_3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0003/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4601,
+          "width" : 3078,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0003",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on" : "https://purl.stanford.edu/hs631zg4177/iiif/canvas/cocina-fileSet-hs631zg4177-hs631zg4177_3"
+      } ]
+    } ]
+  } ]
+}
