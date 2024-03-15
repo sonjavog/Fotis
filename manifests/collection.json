@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://sonjavog.github.io/Fotis/manifests/manifest.json",
     "label" : "Ōmi Kuni-ezu -- 近江國絵圖"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://sonjavog.github.io/Fotis/manifests/manifest2.json",
+    "label" : "Mappemonde où sont marquées les Nouvelles Découvertes - B 59"
   } ]
 }
