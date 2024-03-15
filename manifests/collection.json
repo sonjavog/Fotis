@@ -1,0 +1,13 @@
+{
+  "id" : "https://sonjavog.github.io/Fotis/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in sonjavog/Fotis project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://sonjavog.github.io/Fotis/manifests/manifest_Omi_Kuni-ezu.json",
+    "label" : "Ōmi Kuni-ezu -- 近江國絵圖"
+  } ]
+}
